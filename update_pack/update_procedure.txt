@@ -1,0 +1,11 @@
+Update instructions from version 2.3 to 2.4 -
+PLEASE READ AND FOLLOW THE STEPS CAREFULLY.
+Before starting, keep a backup of files and database of your running 2.3 version. So that there will be no fear of losing data.
+1. Open the update_pack directory then move to assets folder. Copy all the files inside assets folder and paste those on your existing applications backend directory. Which is located at assets > backend.
+2. Open the update_pack directory then move to views folder. Copy all the files inside views folder and paste those on your existing applications backend directory. Which is located at application > views > backend.
+3. After that, Login as Admin.
+4. Click on "System Settings" option.
+5. Move to "Update Product" section.
+6. Upload the file "update_2.4.zip". Which is located at "update_pack/update_2.4.zip".
+7. You will get success message that you have successfully updated your application to the latest version of 2.4. If you face any kind of difficulties, let us know through tickets.
+That's it.

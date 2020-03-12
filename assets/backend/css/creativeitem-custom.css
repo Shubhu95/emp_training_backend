@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap');
+
+body {
+	background: #f2f3f8 !important;
+	font-family: poppins !important;
+	font-size: 13px !important;
+    font-weight: 300 !important;
+    -ms-text-size-adjust: 100% !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+}
+
+.left-side-menu {
+	width: 265px !important;
+}
+
+.content-page {
+	margin-left: 265px !important;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-weight: 400 !important;
+    color: #434349 !important;
+}
+
+.nav-link:focus, .nav-link:hover {
+	background-color: #F5F5F9 !important;
+}
+
+.nav-user {
+	background-color: #fff !important;
+	border: 0px !important;
+}
+
+.nav-user .account-user-name {
+    font-weight: 500 !important;
+    color: #6c7293 !important;
+}
+
+.notification-list .dropdown-menu.dropdown-menu-right {
+	width: 100% !important;
+}
+
+.left-side-menu {
+	background: #1e1e2d !important;
+}
+
+.card {
+	-webkit-box-shadow: 0px 0px 13px 0px rgba(82, 63, 105, 0.05) !important;
+	box-shadow: 0px 0px 13px 0px rgba(82, 63, 105, 0.05) !important;
+}
+
+.card .header-title {
+	text-transform: none !important;
+	color: #48465b !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+}
+
+.side-nav .side-nav-link, .side-nav-second-level li a, .side-nav-third-level li a {
+	color: #a2a3b7 !important;
+	font-weight: 400 !important;
+    font-size: 13px !important;
+    text-transform: initial !important;
+}
+
+.side-nav .side-nav-link i {
+	color: #494b74 !important;
+    font-size: 18px !important;
+}
+
+.side-nav .side-nav-title {
+	color : #4c4e6f !important;
+}
+
+.side-nav .menu-arrow {
+	font-size: 12px !important;
+	color: #5c5e81 !important;
+}
+
+.font-15 {
+	font-weight: 400 !important;
+}
+
+.badge {
+	padding: 5px 8px !important;
+    font-size: 10px !important;
+    font-weight: 500 !important;
+    border-radius: 2px !important;
+}
+
+.badge-success-lighten {
+    color: #0abb87 !important;
+    background-color: rgba(10, 187, 135, 0.1) !important;
+}
+
+.badge-dark-lighten {
+    color: #65758c !important;
+    background-color: rgba(145, 165, 191, 0.18) !important;
+}
+
+table.dataTable tbody td.focus, table.dataTable tbody th.focus {
+	outline: 0px solid !important;
+	background: none !important;
+}
+
+table.dataTable td, table.dataTable th {
+	font-weight: 400 !important;
+}
+
+div.dataTables_wrapper div.dataTables_filter input {
+	border-radius: 20px;
+}
+
+.btn {
+	border-radius: 20px !important;
+}
+
+.btn.focus, .btn:focus {
+	-webkit-box-shadow: 0 0 0 0rem rgba(114,124,245,.25) !important;
+    box-shadow: 0 0 0 0rem rgba(114,124,245,.25) !important;
+}
+
+.btn-primary {
+    background-color: #5d78ff !important;
+    border-color: #5d78ff !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.btn-info {
+    background-color: #5d78ff !important;
+    border-color: #5d78ff !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.btn-secondary {
+    background-color: #1A1A26 !important;
+    border-color: #1A1A26 !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.btn-success {
+    background-color: #0abb87 !important;
+    border-color: #0abb87 !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.btn-danger {
+    background-color: #FA3D7B !important;
+    border-color: #FA3D7B !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.btn-light {
+    background-color: #CBD8E1 !important;
+    border-color: #CBD8E1 !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.form-control {
+	border : 1px solid #e2e5ec !important;
+	color: #495057 !important;
+	border-radius: 20px !important;
+	font-size: 12px !important;
+}
+
+.form-control:focus {
+	border-color: #9aabff !important;
+}
+
+.form-wizard-header {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #ebedf2 !important;
+}
+
+.nav-pills .nav-link {
+	font-weight: 400;
+}
+
+.nav-link:focus, .nav-link:hover {
+	background-color: #ffffff !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #6c757d !important;
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #5d78ff !important;
+    font-weight: 400;
+}
+
+
+.select2-dropdown {
+	border: 0px solid #d9e3e9 !important;
+	-webkit-box-shadow: 0px 0px 50px 0px rgba(82, 63, 105, 0.15) !important;
+	box-shadow: 0px 0px 50px 0px rgba(82, 63, 105, 0.15) !important;
+}
+
+.select2-container--default .select2-results__option[aria-selected=true] {
+	font-weight: 500;
+}
+
+.select2-results__option[aria-selected] {
+	font-weight: 500;
+}
+
+.select2-container .select2-selection--single .select2-selection__rendered {
+	font-weight: 500;
+}
+
+.select2-container .select2-selection--single {
+	border-radius: 20px !important;
+}
+
+table.dataTable thead > tr > th.sorting_asc, table.dataTable thead > tr > th.sorting_desc, table.dataTable thead > tr > th.sorting, table.dataTable thead > tr > td.sorting_asc, table.dataTable thead > tr > td.sorting_desc, table.dataTable thead > tr > td.sorting {
+	font-weight: 500
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f1f3fa80 !important;
+}
+
+.dropdown-menu {
+    -webkit-box-shadow: 0px 0px 50px 0px rgba(82, 63, 105, 0.15) !important;
+    box-shadow: 0px 0px 50px 0px rgba(82, 63, 105, 0.15) !important;
+    border: 0px !important;
+}
+
+label {
+	font-weight: 400 !important;
+    color: #646D98 !important;
+}
+
+.bootstrap-tagsinput .tag {
+    background-color: rgb(93, 120, 255) !important;
+    border-radius: 2px !important;
+    padding: 0px 7px !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+}
+
+.chart-widget-list p {
+	font-weight: 500;
+}
+
+.conversation-list .ctext-wrap {
+	border-radius: 10px !important;
+}
+
+.conversation-list .ctext-wrap:after {
+	visibility: hidden;
+}
+
+.conversation-list .odd .ctext-wrap {
+	background-color: #1787FB !important;
+    color: #fff !important;
+}
+
+.conversation-list .ctext-wrap {
+	background: #F1F0F0 !important;
+    color: #444950 !important;
+}
+.progress {
+	display: none !important;
+}
+
+#chartdiv {
+  width: 100%;
+  height: 500px;
+}
+#pieChartdiv {
+	width: 100%;
+  height: 300px;
+}

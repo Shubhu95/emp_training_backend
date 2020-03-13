@@ -3,9 +3,9 @@
 /*
  *  ====================================================
  *  Author              : Prateik D 
- *  Module              : Report Manager Category API
+ *  Module              : Trainer Category API
  *  Created Date        : 28-02-2020
- *  Last Update Date    : 28-02-2020
+ *  Last Update Date    : 11-03-2020
  *  ====================================================
 */
 
